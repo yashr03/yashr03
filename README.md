@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashodha!
 
 - :point_right: My pronouns are she/her/hers. 
-- :computer: I’m a senior majoring in Computer Science at Drexel University.
+- :computer: I’m a graduate student majoring in Computer Science at Drexel University.
 - :books: I’m currently learning AI/ML, Data Structures and Algorithms.
 - :notes: Outside of classes, I enjoy playing and listening to music.
 - :email: If you would like to get in touch with me, feel free to [email](mailto:yr82@drexel.edu) me.
